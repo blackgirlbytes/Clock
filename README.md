@@ -1,7 +1,7 @@
 # Clock
 ![clock](https://user-images.githubusercontent.com/22990146/37186488-be12e542-2313-11e8-986d-be4acd440982.png)
 
-This project displays an anagram clock with 12 and 6 as markers. The clock has an hour hand, minute hand , and a second hand. 
+This project displays an analog clock with 12 and 6 as markers. The clock has an hour hand, minute hand , and a second hand. 
 
 ## How It's Made:
 Tech used: HTML, CSS, ES6
